@@ -11,9 +11,9 @@ import json
 global server
 
 # 密钥
-SECRET = 'YourSecret'
+SECRET = 'zFlqw'
 # 服务列表, 末尾不加 `/`
-SERVER_LIST = ['https://example.com',
+SERVER_LIST = ['http://192.168.16.100',
                'http://192.168.114.114',
                'http://192.168.191.191:9810']
 # 请求重试次数
